@@ -21,6 +21,9 @@ omit = [
     "core/asgi.py",
 ]
 
+parallel = true
+concurrency = ["multiprocessing"]
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
