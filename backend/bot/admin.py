@@ -1,3 +1,5 @@
-from django.contrib import admin
+"""
+В модуле содержатсья классы для работы с админ панелью
+"""
 
-# Register your models here.
+# from django.contrib import admin
